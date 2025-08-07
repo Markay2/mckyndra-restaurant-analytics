@@ -1,2 +1,2 @@
-# mckyndra-restaurant-analytics
-Power BI dashboard analyzing €85K in sales across 3 restaurant branches – including menu engineering, customer trends, and predictive forecasting.
+*
+Professional Power BI dashboard analyzing restaurant performance with menu engineering and predictive analytics
