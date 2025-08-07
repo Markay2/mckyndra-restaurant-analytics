@@ -114,10 +114,10 @@ Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/mark-ata-adu)
 - Portfolio: [Multiple Streamlit Applications](https://visitor-forecast-app.streamlit.app/)
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-#Contributing
+# Contributing
 Interested in collaborating or have suggestions? Feel free to open an issue or submit a pull request!
 
 ⭐ If you found this project helpful, please give it a star! ⭐
