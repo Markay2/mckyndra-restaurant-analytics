@@ -93,13 +93,17 @@ Immediate Actions
 
 
 # Repository Structure        
+```
+
 mckyndra-restaurant-analytics-dashboard/
 ├── dashboard/
-│ └── McKyndra_Group_Dashboard.pbix
+│   └── McKyndra_Group_Dashboard.pbix
 ├── images/
-│ └── dashboard_preview.jpeg
+│   └── dashboard_preview.jpeg
 ├── LICENSE
 └── README.md
+
+```
 
 
 # How to Use
